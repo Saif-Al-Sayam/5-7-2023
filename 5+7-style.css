@@ -1,0 +1,39 @@
+p{
+	color: purple;
+}
+.pt2{
+	background: green;
+}
+.pt1{
+	border: 5px solid blue;
+}
+#eyed1{
+	font-size: 40px;
+}
+#eyed2{
+	font-size: 40px;
+}
+#eyed3{
+	/* font-size: 40px;*/
+}
+.pt3{
+	width: 100pt;
+	height: 6em;
+	background-color: violet;
+	margin-bottom: 30px;
+	margin-left: 45%;
+}
+.pt4{
+	width: 20%;
+	height: 100px;
+	background-color: rgba(00, 0, 0, .2);
+	padding: 15px 20px 30px 50px;
+	margin-left: 30%;
+}
+.pt5{
+	width: 45%;
+	height: 60px;
+	background-color: #982375;
+	margin-top: 30px;
+	margin-left: 20%;
+}
